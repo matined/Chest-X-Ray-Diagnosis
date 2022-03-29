@@ -7,6 +7,6 @@ The kaggle computer vision task: https://www.kaggle.com/datasets/prashant268/che
 
 <p align="center">
   <img src="img/covid.png" width="200"> &nbsp;&nbsp;
-  <img src="img/pneumonia.png" width="20"> &nbsp;&nbsp;
-  <img src="img/normal.png" width="20"> &nbsp;&nbsp;
+  <img src="img/pneumonia.png" width="200"> &nbsp;&nbsp;
+  <img src="img/normal.png" width="200"> &nbsp;&nbsp;
 </p>
