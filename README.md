@@ -10,3 +10,11 @@ The kaggle computer vision task: https://www.kaggle.com/datasets/prashant268/che
   <img src="img/pneumonia.png" width="200"> &nbsp;&nbsp;
   <img src="img/normal.png" width="200"> &nbsp;&nbsp;
 </p>
+
+## Libraries
+`pip install -r requirements.txt` or `conda create --name <env> --file requirements.txt`
+
++ tensorflow
++ pillow
++ sklearn
++ matplotlib
