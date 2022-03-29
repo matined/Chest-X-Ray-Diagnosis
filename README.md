@@ -6,7 +6,7 @@ The kaggle computer vision task: https://www.kaggle.com/datasets/prashant268/che
 > Dataset contains total 6432 x-ray images and test data have 20% of total images.
 
 <p align="center">
-  <img src="img/covid.png" width="300"> &nbsp;&nbsp;
-  <img src="img/pneumonia.png" width="300"> &nbsp;&nbsp;
-  <img src="img/normal.png" width="300"> &nbsp;&nbsp;
+  <img src="img/covid.png" width="200"> &nbsp;&nbsp;
+  <img src="img/pneumonia.png" width="20"> &nbsp;&nbsp;
+  <img src="img/normal.png" width="20"> &nbsp;&nbsp;
 </p>
