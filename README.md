@@ -12,8 +12,10 @@ The kaggle computer vision task: https://www.kaggle.com/datasets/prashant268/che
 </p>
 
 ## Libraries
-`pip install -r requirements.txt` or `conda create --name <env> --file requirements.txt`
+pip:    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  `pip install -r requirements.txt` <br>
+conda:   &nbsp;&nbsp; `conda create --name <env> --file requirements.txt`
 
+**Most important**:
 + tensorflow
 + pillow
 + sklearn
