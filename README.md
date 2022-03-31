@@ -20,3 +20,13 @@ conda:   &nbsp;&nbsp; `conda create --name <env> --file requirements.txt`
 + pillow
 + sklearn
 + matplotlib
+
+## Hyperparameter Search
+I'm using the TensorBoard tool to track experiments and metrics like accuracy and loss.
+
+To inspect results of the experiments, run the `Launch Tensorboard Session` button in the `hp_search/hp_search.ipynb` notebook.
+
+Currently, I'm going to use a random search to find the optimal:
++ number of freezed layers in a base model
++ learning rate
++ optimizer
