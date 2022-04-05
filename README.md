@@ -40,6 +40,6 @@ Optimized hyperparmeters:
 Nevertheless, I cannot conduct an accurate tuning with lots of models and hyperparameters because of a lack of time and computational power. Hence, I used a grid search testing only three hyperparameters. The aim was to try the TensorBoard tool, which was successfully done.
 
 <p align="center">
-  <img src="img/hp_table.png" width=350>
-  <img src="img/hp_graph.png" width=350>
+  <img src="img/hp_table.png" width=400>
+  <img src="img/hp_graph.png" width=400>
 </p>
