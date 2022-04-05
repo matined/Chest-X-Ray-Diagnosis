@@ -22,7 +22,7 @@ conda:   &nbsp;&nbsp; `conda create --name <env> --file requirements.txt`
 + sklearn
 + matplotlib
 
-## Models
+## Transfer Learning
 Models are based on pretrained, on imagenet, CNN base models. These are:
 + EfficientNetB3
 + InceptionV3
