@@ -26,7 +26,9 @@ I'm using the TensorBoard tool to track experiments and metrics like accuracy an
 
 To inspect results of the experiments, run the `Launch Tensorboard Session` button in the `hp_search/hp_search.ipynb` notebook.
 
-Currently, I'm going to use a random search to find the optimal:
-+ number of freezed layers in a base model
+Optimized hyperparmeters:
++ dropout rate
 + learning rate
 + optimizer
+
+Nevertheless, I cannot conduct an accurate tuning with lots of models and hyperparameters because of a lack of time and computational power. Hence, I used a grid search testing only three hyperparameters. The aim was to try the TensorBoard tool, which was successfully done.
