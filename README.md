@@ -21,8 +21,14 @@ conda:   &nbsp;&nbsp; `conda create --name <env> --file requirements.txt`
 + sklearn
 + matplotlib
 
+## Models
+Models are based on pretrained, on imagenet, CNN base models. These are:
++ EfficientNetB3
++ InceptionV3
++ MobileNetV2
+
 ## Hyperparameter Search
-I'm using the TensorBoard tool to track experiments and metrics like accuracy and loss.
+I use the TensorBoard tool to track experiments and metrics like accuracy and loss.
 
 To inspect results of the experiments, run the `Launch Tensorboard Session` button in the `hp_search/hp_search.ipynb` notebook.
 
