@@ -5,6 +5,7 @@ The kaggle computer vision task: https://www.kaggle.com/datasets/prashant268/che
 > Dataset is organized into 2 folders (train, test) and both train and test contain 3 subfolders (COVID19, PNEUMONIA, NORMAL).
 > Dataset contains total 6432 x-ray images and test data have 20% of total images.
 
+<br>
 <p align="center">
   <img src="img/covid.png" width="200"> &nbsp;&nbsp;
   <img src="img/pneumonia.png" width="200"> &nbsp;&nbsp;
@@ -37,9 +38,9 @@ Optimized hyperparmeters:
 + learning rate
 + optimizer
 
-Nevertheless, I cannot conduct an accurate tuning with lots of models and hyperparameters because of a lack of time and computational power. Hence, I used a grid search testing only three hyperparameters. The aim was to try the TensorBoard tool, which was successfully done.
+Nevertheless, I cannot conduct an accurate tuning with lots of models and hyperparameters because of a lack of time and computational power. Hence, I used a grid search testing only three hyperparameters. The aim was to try the TensorBoard tool, which was successfully done.<br>
 
 <p align="center">
-  <img src="img/hp_table.png" width=400>
-  <img src="img/hp_graph.png" width=400>
+  <img src="img/hp_table.png" width=480> &nbsp;&nbsp;&nbsp;
+  <img src="img/hp_graph.png" width=480>
 </p>
