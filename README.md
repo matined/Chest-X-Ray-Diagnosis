@@ -69,7 +69,7 @@ Models are based on pretrained, on imagenet, CNN base models. These are:
 ## Hyperparameter Search
 I use the TensorBoard tool to track experiments and metrics like accuracy and loss.
 
-To inspect results of the experiments, run the `Launch Tensorboard Session` button in the `hp_search/hp_search.ipynb` notebook.
+To inspect results of the experiments, click the `Launch Tensorboard Session` button in the `hp_search/hp_search.ipynb` notebook.
 
 Optimized hyperparmeters:
 + dropout rate
