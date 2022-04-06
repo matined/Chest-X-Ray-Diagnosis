@@ -28,9 +28,11 @@ conda:   &nbsp;&nbsp; `conda create --name <env> --file requirements.txt`
 
 To start with, we can check how many images are in each class.
 
-Normal:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  1266 <br>
-Covid-19:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 460 <br>
-Pneumonia: &nbsp;&nbsp;  3418
+**Normal:**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  **1266** <br>
+**Covid-19:**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **460** <br>
+**Pneumonia:** &nbsp;&nbsp;  **3418**
+
+As we see, this is an example of skewed data. Hence, I will use precision, recall, and f1-score as metrics besides accuracy.
 
 ### Raw Comparison
 
