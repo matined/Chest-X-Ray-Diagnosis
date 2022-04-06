@@ -22,6 +22,37 @@ conda:   &nbsp;&nbsp; `conda create --name <env> --file requirements.txt`
 + sklearn
 + matplotlib
 
+## Data Exploration
+
+> The code for this section is available in `data_exploration/data_exploration.ipynb` notebook.
+
+To start with, we can check how many images are in each class.
+
+Normal:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  1266 <br>
+Covid-19:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 460 <br>
+Pneumonia: &nbsp;&nbsp;  3418
+
+### Raw Comparison
+
+<br>
+<p align="center">
+  <img src="img/exp_comp.png" width="600"> &nbsp;&nbsp;
+</p>
+
+### Means
+
+<br>
+<p align="center">
+  <img src="img/exp_mean.png" width="600"> &nbsp;&nbsp;
+</p>
+
+### Contrast Between Means
+
+<br>
+<p align="center">
+  <img src="img/exp_diff.png" width="600"> &nbsp;&nbsp;
+</p>
+
 ## Transfer Learning
 Models are based on pretrained, on imagenet, CNN base models. These are:
 + EfficientNetB3
