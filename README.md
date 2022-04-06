@@ -46,6 +46,11 @@ Pneumonia: &nbsp;&nbsp;  3418
   <img src="img/exp_mean.png" width="600"> &nbsp;&nbsp;
 </p>
 
+### Thoughts
+
++ What about some bias? Is one gender much more prone to covid-19 or pneumonia? If yes, the model may learn to recognize a breast...
++ Can the mean be used as a feature? More precisely, can we consider a "distance" from the mean as a feature?
+
 ### Contrast Between Means
 
 <br>
