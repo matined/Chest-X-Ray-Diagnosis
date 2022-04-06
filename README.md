@@ -75,3 +75,6 @@ Nevertheless, I cannot conduct an accurate tuning with lots of models and hyperp
   <img src="img/hp_table.png" width=400> &nbsp;&nbsp;&nbsp;
   <img src="img/hp_graph.png" width=400>
 </p>
+
+## References
++ https://towardsdatascience.com/exploratory-data-analysis-ideas-for-image-classification-d3fc6bbfb2d2
