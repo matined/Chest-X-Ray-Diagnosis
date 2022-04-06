@@ -77,4 +77,5 @@ Nevertheless, I cannot conduct an accurate tuning with lots of models and hyperp
 </p>
 
 ## References
++ https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia
 + https://towardsdatascience.com/exploratory-data-analysis-ideas-for-image-classification-d3fc6bbfb2d2
